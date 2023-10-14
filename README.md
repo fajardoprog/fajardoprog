@@ -1,5 +1,6 @@
-### Intento de desarrollador full-stack
+# Intento de Full-Stack Developer
 
+Mi nombre es **José Antonio Fajardo Naranjo**, estoy estudiando 2º de Desarrollo de Aplicaciones Web en el IES Martín Rivero . 
 <!--
 **fajardoprog/fajardoprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
